@@ -1,8 +1,8 @@
 class Goran < Formula
   desc "Domain & IP Analysis CLI"
   homepage "https://github.com/beowolx/goran"
-  url      "https://github.com/beowolx/goran/releases/download/v0.1.2/goran-0.1.2-x86_64-apple-darwin.tar.gz"
-  sha256   "210292f46faa6f275ae178994bb0f8704447ef7d8858e621e00a1317b4d04880"
+  url      "https://github.com/beowolx/goran/releases/download/v0.1.6/goran-0.1.6-x86_64-apple-darwin.tar.gz"
+  sha256   "a089e3fcfefd94b350430a62091d689495d0a578d03824602d2c3e0fe613830f"
   license  "MIT"
 
   def install
